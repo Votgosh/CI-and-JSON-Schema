@@ -1,0 +1,1 @@
+__CI Demo__ [![Build status](https://ci.appveyor.com/api/projects/status/m1eto3tv1nf33xhe?svg=true)](https://ci.appveyor.com/project/Votgosh/ci-and-json-schema)
